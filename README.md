@@ -1,6 +1,6 @@
 # Config Files
 
-Various Config Files
+A Public Backup of Various Config Files
 
 ## MAME
 
